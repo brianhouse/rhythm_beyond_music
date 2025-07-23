@@ -97,6 +97,41 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Zaria Forman, _Glacier Drawings_ (2006–)
 - Tomás Saraceno, _Hybrid Webs_ (2018)
 - Anti Laitenen, _Broken Landscape_ (2017)
+George Lewis, Voyager
+Underground Resistance, various
+Ani Albers, various
+Cohen Van Balen, 75 Watt
+Mika Rottenburg, Squeeze
+Francis Alÿs, Samples II / Fitzroy Square
+Fela Kuti, Music is the Weapon
+Zimoun, various
+Bruce Nauman, Bouncing Two Balls Between the Floor and Ceiling with Changing
+Rhythms
+Dan Graham, Two Viewing Rooms
+Ragnar Kjartansson, Sorrow Conquers Happiness
+Richard Long, A Line Made by Walking
+Sun Ra, Space is the Place
+Ryoji Ikeda, The Transinfinite
+Tauba Auerbach, Fold Paintings
+Laurie Frick, Time Blocks
+Lauren McCarthy, Crowdpilot
+Regina Flores, Holobiont
+Brian Eno, Clock of the Long Now
+Quyllurit'i, indigenous ritual, Peruvian Andes
+/
+
+Liat Berdugo, Unpatentable Multitouch Aerobics
+Dan Graham, Two Viewing Rooms / Two-Way Mirror Power
+Adrian Piper, The Mythic Being
+Zimoun, various
+Ragnar Kjartansson, Sorrow Conquers Happiness
+Richard Long, A Line Made by Walking
+Brian Eno, Clock of the Long Now
+Quyllurit'i, indigenous ritual, Peruvian Andes
+Meretu
+Pollock painting
+
+
 
 ## Readings
 - [Bruno Latour, "Sensitizing" (2025)](readings/latour_sensitizing.pdf)
@@ -108,121 +143,185 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Steve Reich
 
 
-<!--
-	turing test
--->
-
-
-
-### Books
-- Elizabeth Grosz, "Chaos, Territory, Art" (2008)
-- James Bridle, "Ways of Being" (2022)
-
-
-
 
 ## Schedule
 
-### Week 1
+### Week 1 — Introduction
 
-#### Monday 1/29
-
-#### Wednesday 1/31
-
-
-### Week 2
-
-#### Monday 2/5
-
-#### Wednesday 2/7
+#### Wednesday 9/10
+- Introductions
+- Artistic research
+- Rhythmanalysis project
 
 
-### Week 3
+### Week 2 — Rhythmanalysis
 
-#### Monday 2/12
+#### Monday 9/8
+- Rhythmanalysis project critique
+- Reading due:
+	- Henri Lefebvre, _Rhythmanalysis: Space, Time and Everyday Life_ (excerpt)
+	- William Whyte, _The Social Life of Small Urban Spaces_ ([video](https://brianhouse.net/download/social_life.m4v))
 
-
-#### Wednesday 2/14
-
-
-### Week 4
-
-#### Monday 2/19
-
-#### Wednesday 2/21
-
-
-### Week 5
-
-#### Monday 2/26
-
-#### Wednesday 2/28
+#### Wednesday 9/10
+- Artwork review
+Reading due:
+	- Jenny Odell, "Another Kind of Time"
+	- Bachelard, "Rhythmanalysis" from _The Dialectic of Duration_
 
 
-### Week 6
+### Week 3 — Musical Rhythm
 
-#### Monday 3/4
+#### Monday 9/15
+- Artwork review
+	- Dan Graham
+	- Steve Reich
+- Reading due:
+	- Curt Sachs, _Rhythm and Tempo_
+	- Steve Reich, “Music as a Gradual Process”
 
-#### Wednesday 3/6
-
-
-### Week 7
-
-#### Monday 3/11
-
-#### Wednesday 3/13
-
-### Spring Break
-
-
-### Week 8
-
-#### Monday 3/25
-
-#### Wednesday 3/27
+#### Wednesday 9/17
+- Artwork review
+- Reading due:
+	- Erik Davis, “Roots and Wires Remix: Polyrhythmic Tricks and the Black
+Electronic”
+	- Jonathan Kramer, “Postmodern Concepts of Musical Time”
 
 
-### Week 9
+### Week 4 — Moving Bodies
 
-#### Monday 4/1
+#### Monday 9/22
+- Midterm project introduction
+- Artwork review
+- Reading due:
+	- Marcel Mauss, "Techniques of the Body"
 
-#### Wednesday 4/3
-
-### Week 10
-
-#### Monday 4/8
-Final project proposal due
-
-#### Wednesday 4/10
+#### Wednesday 9/24
+- Artwork review
+- Reading due:
+	- Hellen Molesworth, _Dance / Draw_ (excerpt)
 
 
-### Week 11
+### Week 5 — Neuroscience
 
-#### Monday — No Class (April Break)
+#### Monday 9/29
+- Midterm project check-in
+- Artwork review
+- Reading due:
+	- Steven Strogatz, "Coupled Oscillators"
+	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
 
-#### Wednesday 4/17
+#### Wednesday 10/1
+- Artwork review
+- Reading due:
+	- Vijay Iyer, _Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music_ (excerpt)
+
+### Week 6 — Psychology and Memory
+
+#### Monday 10/6
+- Preliminary midterm project critique
+- Artwork review
+- Reading due:
+ 	- Gilles Deleuze + Felix Guattari, _1000 Plateaus_ (excerpt)
+
+#### Wednesday 10/8
+- Artwork review
+- Reading due:
+	- Henri Bergson, _Matter and Memory_ (excerpt)
+	- Italo Calvino, _Invisible Cities_ (excerpt)
+
+
+### Week 7 — Midterm 
+
+#### Monday 10/13 — NO CLASS
+
+#### Wednesday 10/15
+- Midterm project critique
+
+
+### Week 8 — Ecology
+
+#### Monday 10/20
+- Artwork review
+- Reading due:
+	- David Farrier, "Wild Clocks"
+	- Bernie Krauss, "The Niche Hypothesis"
+
+#### Wednesday 10/22
+- Artwork review
+- Reading due:
+	- Robert Moor, "Dendrochronology"
+
+### Week 9 — Computation
+
+#### Monday 10/27
+- Artwork review
+- Reading due:
+	- Anne Danielsen, "Digital Signatures"
+	- Shintaro Miyazaki, "Algorhythmics"
+
+#### Wednesday 10/29
+- Artwork review
+- Reading due:
+	- Wendy Chun, _Habitual New Media_ (excerpt)
+
+
+### Week 10 — The Anthropocene
+
+#### Monday 11/3
+- Final project proposal presentations
+- Artwork review
+- Reading due:
+	- Marcia Bjornerud, "Wrinkled Time"
+
+#### Wednesday 11/5
+- Artwork review
+- Reading due:
+	- Robert Smithson, "Monuments of Passaic"
+
+
+### Week 11 — Mathematics
+
+#### Monday 11/10
+- Artwork review
+- Reading due:
+	- Godfried Toussaint, _The Geometry of Musical Rhythm_ (excerpt)
+
+
+#### Wednesday 11/12
+- Final project check-in
 
 
 ### Week 12
 
-#### Monday 4/22
+#### Monday 11/17
 
-#### Wednesday 4/24
+#### Wednesday 11/19
+- Final project preliminary critique
+
+
+#### THANKSGIVING BREAK
 
 
 ### Week 13
 
-#### Monday 4/29
+#### Monday 12/1
+TBD
 
-#### Wednesday 5/1
+#### Wednesday 12/3
+TBD
 
 
 ### Week 14
 
-#### Monday 5/6
+#### Monday 12/8
+
+#### Monday 12/10
 Final project critique
 
+
 ### Exam Week
+
+#### Friday 12/19
 Documentation due
 
 
