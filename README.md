@@ -27,7 +27,7 @@ This studio-seminar course foregrounds the concept of rhythm as it appears acros
 Most classes will include discussion of short texts that address conceptual issues in art, science, and technology. You are required to read them thoroughly before class and have questions and comments ready. You will share these thoughts with the class.
 
 ### Projects
-Over the course of the semester, you will compelete two artistic research projects—a midterm and a final—which will be critiqued by the class. While the projects must be in dialogue with the themes of the course, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
+Over the course of the semester, you will compelete an introductory assignment in addition to two artistic research projects—a midterm and a final—which will be critiqued by the class. While the projects must be in dialogue with the themes of the course, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
 
 [More guidelines about projects](projects.md).
 
@@ -59,7 +59,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ## Artworks
 
-- Robert Smithson, _Spiral Jetty_ (1970)
+<!-- - Robert Smithson, _Spiral Jetty_ (1970)
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
 - Felix Hess, _Air Pressure Flucuations_ (2001) 
 - Daniel Fishkin, _Solar Sounders_ (2021)
@@ -129,18 +129,7 @@ Richard Long, A Line Made by Walking
 Brian Eno, Clock of the Long Now
 Quyllurit'i, indigenous ritual, Peruvian Andes
 Meretu
-Pollock painting
-
-
-
-## Readings
-- [Bruno Latour, "Sensitizing" (2025)](readings/latour_sensitizing.pdf)
-- [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
-- [Marcia Bjornerud, interview (2018)](readings/bjornerud_interview.pdf)
-- [Jenny Odell, "Reading the Rocks"](readings/odell_rocks.pdf)
-- [Marisol de la Cadena, "Making the Complex 'We'"](readings/delacadena_we.pdf)
-
-- Steve Reich
+Pollock painting -->
 
 
 
@@ -148,7 +137,7 @@ Pollock painting
 
 ### Week 1 — Introduction
 
-#### Wednesday 9/10
+#### Wednesday 9/3
 - Introductions
 - Artistic research
 - Rhythmanalysis project
@@ -305,10 +294,10 @@ Electronic”
 ### Week 13
 
 #### Monday 12/1
-TBD
+- TBD
 
 #### Wednesday 12/3
-TBD
+- TBD
 
 
 ### Week 14
@@ -316,13 +305,13 @@ TBD
 #### Monday 12/8
 
 #### Monday 12/10
-Final project critique
+- Final project critique
 
 
 ### Exam Week
 
 #### Friday 12/19
-Documentation due
+- Final documentation due
 
 
 
