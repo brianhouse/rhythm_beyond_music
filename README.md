@@ -9,7 +9,6 @@ Office hours: [https://calendly.com/bhouse-amherst/student-meeting](https://cale
 Fayerweather 308
 
 
-
 ## Course Description
 This studio-seminar course foregrounds the concept of rhythm as it appears across disciplines including philosophy, ecology, neuroscience, and media theory. We explore what rhythm means in these contexts and how it relates to aesthetic practices in the sonic and visual arts. The course takes a hybrid theory/practice approach. Classes consist of discussing texts and exemplary artworks in a seminar format. In addition, students are expected to independently produce studio-based art in any medium for in-class critique.
 
@@ -30,6 +29,12 @@ Most classes will include discussion of short texts that address conceptual issu
 Over the course of the semester, you will compelete an introductory assignment in addition to two artistic research projects—a midterm and a final—which will be critiqued by the class. While the projects must be in dialogue with the themes of the course, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
 
 [More guidelines about projects](projects.md).
+
+### Artwork Review
+Rotating each week, students will give 10-minute presentations on an influential work of art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then precede to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation.
+
+For assistance developing presentation skills, students should reach out to [Susan Daniels](https://www.amherst.edu/academiclife/support/writingcenter/public-speaking) at the Writing Center.
+
 
 ### Grading
 In this course, you are expected to earnestly engage in the practice of philosophical inquiry and studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Attending all classes, actively participating in class, and completing all assignments is the baseline standard. Beyond grades, your project-based work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
@@ -58,80 +63,34 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 &nbsp;  
 
 ## Artworks
-
-<!-- - Robert Smithson, _Spiral Jetty_ (1970)
-- John Luther Adams, _The Place Where You Go to Listen_ (2006)
-- Felix Hess, _Air Pressure Flucuations_ (2001) 
-- Daniel Fishkin, _Solar Sounders_ (2021)
-- James Bridle, _Server Farm_ (2022)
-- Ana Mendieta, _Burial Pyramid_ (1974)
-- Cocky Eek, _Kite Dress_ (2002)
-- Beverly Buchanan, _Marsh Ruins_ (1981)
-- Agnes Denes, _Wheatfield — A Confrontation_ (1982)
-- Lucia Monge, _Plantón Movíl_ (2010)
-- Eduardo Kac, _GFP Bunny_ (2000)
-- Joseph Beuys, _I Like America and America Likes Me_ (1974)
-- Mark Dion, _Library for the Birds of Massachusetts_ (2005)
-- Chris Woebken and Kenichi Okada, _Animal Superpowers_ (2007)
-- Patricia Piccinini, _The Young Family_ (2002)
+- Ryoji Ikeda, _The Transinfinite_ (2011)
+- Mika Rottenburg, _Squeeze_ (2010)
 - Martin Howse, _Radio Mycelium_ (2018)
-- Natalie Jeremijenko, _Tree Logic_ (1999)
-- Revital Cohen and Tuur van Balen, _Pigeon D'Or_ (2010)
-- Olafur Eliasson, _Weather Project_ (2003)
+- Zimoun, various
+- Laurie Frick, _Time Blocks_ (2014)
 - Allora & Calzadilla, _Concert for Elephants_ (2014)
-- Christien Meindertsma, _PIG 05049_ (2007)
-- Jenifer Wightman, _Winogradsky Rothko_ (2008)
-- Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
-- Gilberto Esparza, _Parasitos Urbanos_ (2006)
-- Karolina Sobecka, _Matter of Air_ (2009)
-- Sougwen Chung, _Drawing Operations Unit: Generation 2_ (2018)
-- Anicka Yi, _In Love with the World_ (2021)
-- Trevor Paglen, _Adversarially Evolved Hallucinations_ (2017)
-- Sophia Crespo, _Neural Zoo_ (2018)
-- Paula Gaetano-Adi, _Guanaquerx_ (2024)
-- Philip Beesley, _Hylozoic Ground_ (2010)
-- Ian Cheng, _Emissaries_ (2017)
-- Christian Heinemann, _ALIEN_ (2021–)
-- Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
-- Random International, _Rain Room_ (2012)
-- Zaria Forman, _Glacier Drawings_ (2006–)
-- Tomás Saraceno, _Hybrid Webs_ (2018)
+- George Lewis, _Voyager_ improvisation system
+- Cohen Van Balen, _75 Watt_ (2013)
+- Arvo Pärt, _Cantus in Memoriam Benjamin Britten_ (1977)
+- Natalie Jeremijenko, _Tree Logic_ (1999)
+- Olafur Eliasson, _Weather Project_ (2003)
+- Younes Ramoun, various
 - Anti Laitenen, _Broken Landscape_ (2017)
-George Lewis, Voyager
-Underground Resistance, various
-Ani Albers, various
-Cohen Van Balen, 75 Watt
-Mika Rottenburg, Squeeze
-Francis Alÿs, Samples II / Fitzroy Square
-Fela Kuti, Music is the Weapon
-Zimoun, various
-Bruce Nauman, Bouncing Two Balls Between the Floor and Ceiling with Changing
-Rhythms
-Dan Graham, Two Viewing Rooms
-Ragnar Kjartansson, Sorrow Conquers Happiness
-Richard Long, A Line Made by Walking
-Sun Ra, Space is the Place
-Ryoji Ikeda, The Transinfinite
-Tauba Auerbach, Fold Paintings
-Laurie Frick, Time Blocks
-Lauren McCarthy, Crowdpilot
-Regina Flores, Holobiont
-Brian Eno, Clock of the Long Now
-Quyllurit'i, indigenous ritual, Peruvian Andes
-/
-
-Liat Berdugo, Unpatentable Multitouch Aerobics
-Dan Graham, Two Viewing Rooms / Two-Way Mirror Power
-Adrian Piper, The Mythic Being
-Zimoun, various
-Ragnar Kjartansson, Sorrow Conquers Happiness
-Richard Long, A Line Made by Walking
-Brian Eno, Clock of the Long Now
-Quyllurit'i, indigenous ritual, Peruvian Andes
-Meretu
-Pollock painting -->
-
-
+- Teching Hsieh, _Clock Piece_ (1980)
+- Bruce Nauman, _Bouncing Two Balls Between the Floor and Ceiling with Changing
+Rhythms_ (1967)
+- Robert Smithson, _Spiral Jetty_ (1970)
+- Tauba Auerbach, _Fold Paintings_ (2012)
+- Adrian Piper, _The Mythic Being_ (1973)
+- Francis Alÿs, _Samples II / Fitzroy Square_ (2004)
+- Ragnar Kjartansson, _Sorrow Conquers Happiness_ (2007)
+- Richard Long, _A Line Made by Walking_ (1967)
+- Brian Eno / Danny Hillis, _Clock of the Long Now_ (1989)
+- _Quyllurit'i_, indigenous ritual, Peruvian Andes (traditional)
+- Dan Graham, _Time Delay Room_ (1974)
+- Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
+- Sophie Calle, _Suite Vénitienne_ (1980)
+- Janet Cardiff, _Her Long Black Hair_ (2004)
 
 ## Schedule
 
@@ -196,7 +155,7 @@ Electronic”
 - Midterm project check-in
 - Artwork review
 - Reading due:
-	- Steven Strogatz, "Coupled Oscillators"
+	- Steven Strogatz, "Coupled Oscillators" and https://www.youtube.com/watch?v=5v5eBf2KwF8
 	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
 
 #### Wednesday 10/1

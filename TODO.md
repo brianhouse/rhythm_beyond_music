@@ -7,3 +7,11 @@ Marcia Bjornerud, Wrinkled Time
 Bergson
 Calvino
 smithson
+
+//
+
+artists
+
+//
+
+print artistic research
