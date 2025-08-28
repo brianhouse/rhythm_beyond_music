@@ -74,6 +74,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Arvo Pärt, _Cantus in Memoriam Benjamin Britten_ (1977)
 - Natalie Jeremijenko, _Tree Logic_ (1999)
 - Olafur Eliasson, _Weather Project_ (2003)
+- Alvin Lucier, _I Am Sitting in a Room_ (1970)
 - Younes Ramoun, various
 - Anti Laitenen, _Broken Landscape_ (2017)
 - Teching Hsieh, _Clock Piece_ (1980)
@@ -113,7 +114,7 @@ Rhythms_ (1967)
 #### Wednesday 9/10
 - Artwork review
 Reading due:
-	- Jenny Odell, "Another Kind of Time"
+	- Jenny Odell, "Another Kind of Time" (https://emergencemagazine.org/conversation/another-kind-of-time/)
 	- Bachelard, "Rhythmanalysis" from _The Dialectic of Duration_
 
 
@@ -191,13 +192,13 @@ Electronic”
 #### Monday 10/20
 - Artwork review
 - Reading due:
-	- David Farrier, "Wild Clocks"
+	- David Farrier, "Wild Clocks" (https://emergencemagazine.org/essay/wild-clocks/)
 	- Bernie Krauss, "The Niche Hypothesis"
 
 #### Wednesday 10/22
 - Artwork review
 - Reading due:
-	- Robert Moor, "Dendrochronology"
+	- Robert Moor, "Dendrochronology" (https://emergencemagazine.org/essay/dendrochronology/)
 
 ### Week 9 — Computation
 
@@ -219,7 +220,7 @@ Electronic”
 - Final project proposal presentations
 - Artwork review
 - Reading due:
-	- Marcia Bjornerud, "Wrinkled Time"
+	- Marcia Bjornerud, "Wrinkled Time" (https://emergencemagazine.org/essay/wrinkled-time/)
 
 #### Wednesday 11/5
 - Artwork review
@@ -237,6 +238,7 @@ Electronic”
 
 #### Wednesday 11/12
 - Final project check-in
+- Visit to Swapnaa Tamhane exhibition at the Mead
 
 
 ### Week 12
