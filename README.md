@@ -106,6 +106,7 @@ Rhythms_ (1967)
 ### Week 2 — Rhythmanalysis
 
 #### Monday 9/8
+<!-- - Safety Trainings -->
 - Rhythmanalysis project critique
 - Reading due:
 	- Henri Lefebvre, _Rhythmanalysis: Space, Time and Everyday Life_ (excerpt)
@@ -233,7 +234,7 @@ Electronic”
 #### Monday 11/10
 - Artwork review
 - Reading due:
-	- Godfried Toussaint, _The Geometry of Musical Rhythm_ (excerpt)
+	- Godfried Toussaint, _The Geometry of Musical Rhythm_ (excerpts)
 
 
 #### Wednesday 11/12

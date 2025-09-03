@@ -1,6 +1,6 @@
 # Projects
 
-Your miderm and final projects in this course are of your own design. You may explore any of the themes that have arisen in the course of our discussions in class and incorporate any studio method.
+Your midterm and final projects in this course are of your own design. You may explore any of the themes that have arisen in the course of our discussions in class and incorporate any studio method.
 
 Keep in mind the short timeframe, and plan your work accordingly. That said, the emphasis in these projects is on process, not product.
 
