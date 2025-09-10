@@ -92,6 +92,13 @@ Rhythms_ (1967)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
 - Sophie Calle, _Suite Vénitienne_ (1980)
 - Janet Cardiff, _Her Long Black Hair_ (2004)
+- Taeyoon Choi and E Roon Kang, _In Search of Personalized Time_ (2014)
+- Christian Marclay, _The Clock_ (2010)
+- Steve Reich, _Piano Phase_ (1967)
+- MC Escher, tesselations (various)
+- Jonathan Harris, _The Whale Hunt_ (2007)
+- BeReal, online platform (2020)
+
 
 ## Schedule
 
@@ -122,9 +129,7 @@ Reading due:
 ### Week 3 — Musical Rhythm
 
 #### Monday 9/15
-- Artwork review
-	- Dan Graham
-	- Steve Reich
+- Artwork review (Reich + Graham)
 - Reading due:
 	- Curt Sachs, _Rhythm and Tempo_
 	- Steve Reich, “Music as a Gradual Process”
