@@ -90,6 +90,7 @@ Rhythms_ (1967)
 - _Quyllurit'i_, indigenous ritual, Peruvian Andes (traditional)
 - Dan Graham, _Time Delay Room_ (1974)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
+- Brian House, _Synchronizing Uncertainty_ (2025)
 - Sophie Calle, _Suite Vénitienne_ (1980)
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - Taeyoon Choi and E Roon Kang, _In Search of Personalized Time_ (2014)
@@ -98,6 +99,7 @@ Rhythms_ (1967)
 - MC Escher, tesselations (various)
 - Jonathan Harris, _The Whale Hunt_ (2007)
 - BeReal, online platform (2020)
+- Marcell Esterházy, _v.n.p. v2.0_ (2005)
 
 
 ## Schedule
@@ -149,6 +151,7 @@ Electronic”
 - Artwork review
 - Reading due:
 	- Marcel Mauss, "Techniques of the Body"
+	<!-- revisit William Whyte -->
 
 #### Wednesday 9/24
 - Artwork review
