@@ -6,7 +6,7 @@ Keep in mind the short timeframe, and plan your work accordingly. That said, the
 
 ## Proposal
 
-Your proposal should be a Google Slides / Keynote / PowerPoint presentation that consists of:
+Your proposal should be a PDF document that consists of:
 - An explanation of the concept you want to explore
 - Three artistic precedents that we've seen in class or that you've independently researched
 - Your idea

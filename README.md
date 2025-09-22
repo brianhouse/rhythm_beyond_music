@@ -134,7 +134,7 @@ Reading due:
 ### Week 3 — Musical Rhythm
 
 #### Monday 9/15
-- Artwork review (Reich + Graham)
+- Artwork review <!-- reich, graham? -->
 - Reading due:
 	- Curt Sachs, _Rhythm and Tempo_
 	- Steve Reich, “Music as a Gradual Process”
@@ -142,8 +142,7 @@ Reading due:
 #### Wednesday 9/17
 - Artwork review
 - Reading due:
-	- Erik Davis, “Roots and Wires Remix: Polyrhythmic Tricks and the Black
-Electronic”
+	- Erik Davis, “Roots and Wires Remix: Polyrhythmic Tricks and the Black Electronic”
 	- Jonathan Kramer, “Postmodern Concepts of Musical Time”
 
 
@@ -151,13 +150,13 @@ Electronic”
 
 #### Monday 9/22
 - Midterm project introduction
-- Artwork review
+- Artwork review <!-- adrian piper (alfie), richard long (andrew) -->
 - Reading due:
 	- Marcel Mauss, "Techniques of the Body"
 	<!-- revisit William Whyte -->
 
 #### Wednesday 9/24
-- Artwork review
+- Artwork review <!-- I am sitting in a room (becca),  DANCE -->
 - Reading due:
 	- Hellen Molesworth, _Dance / Draw_ (excerpt)
 
@@ -165,8 +164,8 @@ Electronic”
 ### Week 5 — Neuroscience
 
 #### Monday 9/29
-- Midterm project check-in
-- Artwork review
+- Midterm project proposal due
+- Artwork review <!-- summer -->
 - Reading due:
 	- Steven Strogatz, "Coupled Oscillators" and https://www.youtube.com/watch?v=5v5eBf2KwF8
 	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
@@ -179,7 +178,7 @@ Electronic”
 ### Week 6 — Psychology and Memory
 
 #### Monday 10/6
-- Preliminary midterm project critique
+- Preliminary midterm project check-in
 - Artwork review
 - Reading due:
  	- Gilles Deleuze + Felix Guattari, _1000 Plateaus_ (excerpt)
@@ -215,6 +214,7 @@ Electronic”
 ### Week 9 — Computation
 
 #### Monday 10/27
+- Final project discussion
 - Artwork review
 - Reading due:
 	- Anne Danielsen, "Digital Signatures"
