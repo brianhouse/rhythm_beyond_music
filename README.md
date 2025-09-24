@@ -140,7 +140,7 @@ Reading due:
 	- Steve Reich, “Music as a Gradual Process”
 
 #### Wednesday 9/17
-- Artwork review
+- Artwork review <!-- drexciya, ewe -->
 - Reading due:
 	- Erik Davis, “Roots and Wires Remix: Polyrhythmic Tricks and the Black Electronic”
 	- Jonathan Kramer, “Postmodern Concepts of Musical Time”
@@ -150,13 +150,13 @@ Reading due:
 
 #### Monday 9/22
 - Midterm project introduction
-- Artwork review <!-- adrian piper (alfie), richard long (andrew) -->
+- Artwork review <!-- adrian piper (alfie), richard long (andrew), sound suits -->
 - Reading due:
 	- Marcel Mauss, "Techniques of the Body"
 	<!-- revisit William Whyte -->
 
 #### Wednesday 9/24
-- Artwork review <!-- I am sitting in a room (becca),  DANCE -->
+- Artwork review <!-- I am sitting in a room (becca), huddle, Yvonne Rainer's manifesto -->
 - Reading due:
 	- Hellen Molesworth, _Dance / Draw_ (excerpt)
 
@@ -165,13 +165,12 @@ Reading due:
 
 #### Monday 9/29
 - Midterm project proposal due
-- Artwork review <!-- summer -->
 - Reading due:
 	- Steven Strogatz, "Coupled Oscillators" and https://www.youtube.com/watch?v=5v5eBf2KwF8
 	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
 
 #### Wednesday 10/1
-- Artwork review
+- Artwork review <!-- summer, stephen -->
 - Reading due:
 	- Vijay Iyer, _Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music_ (excerpt)
 
