@@ -103,6 +103,7 @@ Rhythms_ (1967)
 - Jonathan Harris, _The Whale Hunt_ (2007)
 - BeReal, online platform (2020)
 - Marcell Esterházy, _v.n.p. v2.0_ (2005)
+- Konstantine Vlasis, _2124_ (2024)
 
 
 ## Schedule
@@ -229,7 +230,7 @@ Reading due:
 
 #### Monday 11/3
 - Final project proposal presentations
-- Artwork review
+- Artwork review <!-- vlasis -->
 - Reading due:
 	- Marcia Bjornerud, "Wrinkled Time" (https://emergencemagazine.org/essay/wrinkled-time/)
 
