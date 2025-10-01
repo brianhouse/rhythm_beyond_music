@@ -65,7 +65,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ## Artworks
 - Ryoji Ikeda, _The Transinfinite_ (2011)
 - Mika Rottenburg, _Squeeze_ (2010)
-- Martin Howse, _Radio Mycelium_ (2018)
 - Zimoun, various (2000s)
 - Laurie Frick, _Time Blocks_ (2014)
 - Allora & Calzadilla, _Concert for Elephants_ (2014)
@@ -74,7 +73,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Arvo Pärt, _Cantus in Memoriam Benjamin Britten_ (1977)
 - Natalie Jeremijenko, _Tree Logic_ (1999)
 - Olafur Eliasson, _Weather Project_ (2003)
-- Alvin Lucier, _I Am Sitting in a Room_ (1970)
 - Younes Ramoun, various
 - Anti Laitenen, _Broken Landscape_ (2017)
 - Teching Hsieh, _Clock Piece_ (1980)
@@ -83,7 +81,6 @@ Rhythms_ (1967)
 - Robert Smithson, _Spiral Jetty_ (1970)
 - Tauba Auerbach, _Fold Paintings_ (2012)
 - Adrian Piper, _The Mythic Being_ (1973)
-- Nick Cave, soundsuits (2000s)
 - Francis Alÿs, _Samples II / Fitzroy Square_ (2004)
 - Ragnar Kjartansson, _Sorrow Conquers Happiness_ (2007)
 - Julie Mehretu, _Mural_ (2009)
@@ -91,19 +88,29 @@ Rhythms_ (1967)
 - Richard Long, _A Line Made by Walking_ (1967)
 - Brian Eno / Danny Hillis, _Clock of the Long Now_ (1989)
 - _Quyllurit'i_, indigenous ritual, Peruvian Andes (traditional)
-- Dan Graham, _Time Delay Room_ (1974)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
 - Brian House, _Synchronizing Uncertainty_ (2025)
 - Sophie Calle, _Suite Vénitienne_ (1980)
 - Janet Cardiff, _Her Long Black Hair_ (2004)
-- Taeyoon Choi and E Roon Kang, _In Search of Personalized Time_ (2014)
-- Christian Marclay, _The Clock_ (2010)
-- Steve Reich, _Piano Phase_ (1967)
 - MC Escher, tesselations (various)
-- Jonathan Harris, _The Whale Hunt_ (2007)
-- BeReal, online platform (2020)
 - Marcell Esterházy, _v.n.p. v2.0_ (2005)
 - Konstantine Vlasis, _2124_ (2024)
+- Felix Hess, _It's in the Air_ (2008)
+- Nathalie Miebach, _Changing Waters_ (2011)
+
+
+### already covered
+- Ned Kahn, _Wind Veil_ (2000)
+- Joan Jonas, _Draw on the Wind_ (2018)
+- Steve Reich, _Piano Phase_ (1967)
+- Jonathan Harris, _The Whale Hunt_ (2007)
+- Dan Graham, _Time Delay Room_ (1974)
+- Martin Howse, _Radio Mycelium_ (2018)
+- Alvin Lucier, _I Am Sitting in a Room_ (1970)
+- Nick Cave, soundsuits (2000s)
+- Taeyoon Choi and E Roon Kang, _In Search of Personalized Time_ (2014)
+- Christian Marclay, _The Clock_ (2010)
+- BeReal, online platform (2020)
 
 
 ## Schedule
@@ -166,29 +173,29 @@ Reading due:
 
 #### Monday 9/29
 - Midterm project proposal due
-- Reading due:
-	- Steven Strogatz, "Coupled Oscillators" and https://www.youtube.com/watch?v=5v5eBf2KwF8
-	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
 
 #### Wednesday 10/1
-- Artwork review <!-- summer, stephen -->
+- Artwork review <!-- becca -->
 - Reading due:
-	- Vijay Iyer, _Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music_ (excerpt)
+	- Steven Strogatz, "Coupled Oscillators" and https://www.youtube.com/watch?v=5v5eBf2KwF8
 
 ### Week 6 — Psychology and Memory
 
 #### Monday 10/6
+- Artwork review
+- Reading due:
+	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
+	- Vijay Iyer, _Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music_ (excerpt)
+
+#### Wednesday 10/8
 - Preliminary midterm project check-in
 - Artwork review
 - Reading due:
  	- Gilles Deleuze + Felix Guattari, _1000 Plateaus_ (excerpt)
-
-#### Wednesday 10/8
-- Artwork review
-- Reading due:
+<!-- - Reading due:
 	- Henri Bergson, _Matter and Memory_ (excerpt)
 	- Italo Calvino, _Invisible Cities_ (excerpt)
-
+ -->
 
 ### Week 7 — Midterm 
 
