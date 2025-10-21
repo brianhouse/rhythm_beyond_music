@@ -85,7 +85,6 @@ Rhythms_ (1967)
 - Ragnar Kjartansson, _Sorrow Conquers Happiness_ (2007)
 - Julie Mehretu, _Mural_ (2009)
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
-- Richard Long, _A Line Made by Walking_ (1967)
 - Brian Eno / Danny Hillis, _Clock of the Long Now_ (1989)
 - _Quyllurit'i_, indigenous ritual, Peruvian Andes (traditional)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
@@ -97,6 +96,8 @@ Rhythms_ (1967)
 - Konstantine Vlasis, _2124_ (2024)
 - Felix Hess, _It's in the Air_ (2008)
 - Nathalie Miebach, _Changing Waters_ (2011)
+- William Basinski, _Disintegration Loops_ (2001)
+- Ellie Irons, _Next Seed Epoch_ (2014)
 
 
 ### already covered
@@ -111,7 +112,9 @@ Rhythms_ (1967)
 - Taeyoon Choi and E Roon Kang, _In Search of Personalized Time_ (2014)
 - Christian Marclay, _The Clock_ (2010)
 - BeReal, online platform (2020)
-
+- Richard Long, _A Line Made by Walking_ (1967)
+- Máret Ánne Sara, _Pile o’Sápmi_ (2016)
+- Katie Patterson, _Future Library_ (2014)
 
 ## Schedule
 
@@ -186,12 +189,13 @@ Reading due:
 - Reading due:
 	- Edward Large, “Neural Networks for Beat Perception in Musical Rhythm”
 	- Vijay Iyer, _Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music_ (excerpt)
+	<!-- james brown on groove, rhythm exercises -->
 
 #### Wednesday 10/8
 - Preliminary midterm project check-in
 - Artwork review
 - Reading due:
- 	- Gilles Deleuze + Felix Guattari, _1000 Plateaus_ (excerpt)
+ 	- Gilles Deleuze + Felix Guattari, _1000 Plateaus_ (excerpt)  <!-- Cage, sound suits -->
 <!-- - Reading due:
 	- Henri Bergson, _Matter and Memory_ (excerpt)
 	- Italo Calvino, _Invisible Cities_ (excerpt)
@@ -214,7 +218,7 @@ Reading due:
 	- Bernie Krauss, "The Niche Hypothesis"
 
 #### Wednesday 10/22
-- Artwork review
+- Artwork review <!-- alfie stephen -->
 - Reading due:
 	- Robert Moor, "Dendrochronology" (https://emergencemagazine.org/essay/dendrochronology/)
 
