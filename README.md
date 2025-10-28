@@ -78,7 +78,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Teching Hsieh, _Clock Piece_ (1980)
 - Bruce Nauman, _Bouncing Two Balls Between the Floor and Ceiling with Changing
 Rhythms_ (1967)
-- Robert Smithson, _Spiral Jetty_ (1970)
 - Tauba Auerbach, _Fold Paintings_ (2012)
 - Adrian Piper, _The Mythic Being_ (1973)
 - Francis Alÿs, _Samples II / Fitzroy Square_ (2004)
@@ -87,8 +86,6 @@ Rhythms_ (1967)
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
 - Brian Eno / Danny Hillis, _Clock of the Long Now_ (1989)
 - _Quyllurit'i_, indigenous ritual, Peruvian Andes (traditional)
-- Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
-- Brian House, _Synchronizing Uncertainty_ (2025)
 - Sophie Calle, _Suite Vénitienne_ (1980)
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - MC Escher, tesselations (various)
@@ -113,8 +110,13 @@ Rhythms_ (1967)
 - Christian Marclay, _The Clock_ (2010)
 - BeReal, online platform (2020)
 - Richard Long, _A Line Made by Walking_ (1967)
+- Brian House, _Synchronizing Uncertainty_ (2025)
 - Máret Ánne Sara, _Pile o’Sápmi_ (2016)
 - Katie Patterson, _Future Library_ (2014)
+- Robert Smithson, _Spiral Jetty_ (1970)
+- Cretto di Burri, _Alberto Burri_ (1984–2015)
+- Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
+
 
 ## Schedule
 
@@ -226,22 +228,23 @@ Reading due:
 
 #### Monday 10/27
 - Final project discussion
-- Artwork review
+- Artwork review <!-- summer -->
 - Reading due:
 	- Anne Danielsen, "Digital Signatures"
 	- Shintaro Miyazaki, "Algorhythmics"
 
 #### Wednesday 10/29
-- Artwork review
+NO CLASS
+<!-- - Artwork review
 - Reading due:
 	- Wendy Chun, _Habitual New Media_ (excerpt)
-
+ -->
 
 ### Week 10 — The Anthropocene
 
 #### Monday 11/3
 - Final project proposal presentations
-- Artwork review <!-- vlasis -->
+- Artwork review <!-- vlasis, becca -->
 - Reading due:
 	- Marcia Bjornerud, "Wrinkled Time" (https://emergencemagazine.org/essay/wrinkled-time/)
 
@@ -288,7 +291,7 @@ Reading due:
 
 #### Monday 12/8
 
-#### Monday 12/10
+#### Wednesday 12/10
 - Final project critique
 
 
