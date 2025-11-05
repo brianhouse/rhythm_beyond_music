@@ -262,6 +262,7 @@ NO CLASS
 ### Week 11 — Mathematics
 
 #### Monday 11/10
+<!-- note that I moved check-in -->
 - Artwork review <!-- andrew and taylor -->
 - Reading due:
 	- Godfried Toussaint, _The Geometry of Musical Rhythm_ (excerpts)
@@ -274,11 +275,15 @@ NO CLASS
 ### Week 12
 
 #### Monday 11/17
+- Artwork review
 - Final project check-in
 
 
 #### Wednesday 11/19
-- TBD
+- Artwork review
+- Reading due:
+	- Wendy Chun, _Habitual New Media_ (excerpt)
+
 
 #### THANKSGIVING BREAK
 
@@ -290,8 +295,9 @@ NO CLASS
 
 
 #### Wednesday 12/3
-- TBD
-
+- Artwork review
+- Reading due:
+	- Italo Calvino, _Invisible Cities_ (excerpt)
 
 ### Week 14
 
