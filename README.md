@@ -90,11 +90,11 @@ Rhythms_ (1967)
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - MC Escher, tesselations (various)
 - Marcell Esterházy, _v.n.p. v2.0_ (2005)
-- Konstantine Vlasis, _2124_ (2024)
 - Felix Hess, _It's in the Air_ (2008)
 - Nathalie Miebach, _Changing Waters_ (2011)
 - William Basinski, _Disintegration Loops_ (2001)
 - Ellie Irons, _Next Seed Epoch_ (2014)
+<!-- Dru Donovan -->
 
 
 ### already covered
@@ -116,6 +116,11 @@ Rhythms_ (1967)
 - Robert Smithson, _Spiral Jetty_ (1970)
 - Cretto di Burri, _Alberto Burri_ (1984–2015)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
+- Joanne Lobotsky, _Sentinel_
+- Hollis Hammonds, _Carbon Collectors_
+- Sophie Calle, _The Sleepers_
+- Konstantine Vlasis, _2124_ (2024)
+
 
 
 ## Schedule
@@ -244,12 +249,12 @@ NO CLASS
 
 #### Monday 11/3
 - Final project proposal presentations
-- Artwork review <!-- vlasis, becca -->
+- Artwork review 
 - Reading due:
 	- Marcia Bjornerud, "Wrinkled Time" (https://emergencemagazine.org/essay/wrinkled-time/)
 
 #### Wednesday 11/5
-- Artwork review
+- Artwork review <!-- vlasis, becca -->
 - Reading due:
 	- Robert Smithson, "Monuments of Passaic"
 
@@ -257,23 +262,23 @@ NO CLASS
 ### Week 11 — Mathematics
 
 #### Monday 11/10
-- Artwork review
+- Artwork review <!-- andrew and taylor -->
 - Reading due:
 	- Godfried Toussaint, _The Geometry of Musical Rhythm_ (excerpts)
 
 
 #### Wednesday 11/12
-- Final project check-in
 - Visit to Swapnaa Tamhane exhibition at the Mead
 
 
 ### Week 12
 
 #### Monday 11/17
+- Final project check-in
+
 
 #### Wednesday 11/19
-- Final project preliminary critique
-
+- TBD
 
 #### THANKSGIVING BREAK
 
@@ -281,7 +286,8 @@ NO CLASS
 ### Week 13
 
 #### Monday 12/1
-- TBD
+- Final project preliminary critique
+
 
 #### Wednesday 12/3
 - TBD
